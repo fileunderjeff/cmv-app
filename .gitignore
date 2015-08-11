@@ -34,6 +34,8 @@ local.properties
 # PDT-specific
 .buildpath
 
+# config egg-info
+sftp-config.json
 
 #################
 ## Visual Studio
